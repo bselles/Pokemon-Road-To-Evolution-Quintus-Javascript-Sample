@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="18" height="16" tilewidth="32" tileheight="32" nextobjectid="9">
+ <tileset firstgid="1" name="arceus" tilewidth="128" tileheight="136" tilecount="3" columns="3">
+  <image source="../images/arceus.png" width="384" height="136"/>
+  <tile id="1">
+   <properties>
+    <property name="Class" value="Arceus"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="4" name="evo_pikachu" tilewidth="40" tileheight="52" tilecount="8" columns="4">
+  <image source="../images/evo_pikachu.png" width="174" height="108"/>
+  <tile id="1">
+   <properties>
+    <property name="Class" value="Evo_pikachu"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="12" name="evo_bulbasaur" tilewidth="38" tileheight="44" tilecount="12" columns="4">
+  <image source="../images/evo_bulbasaur.png" width="156" height="140"/>
+  <tile id="1">
+   <properties>
+    <property name="Class" value="Evo_bulbasaur"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="24" name="evo_charmander" tilewidth="38" tileheight="44" tilecount="12" columns="4">
+  <image source="../images/evo_charmander.png" width="162" height="150"/>
+  <tile id="1">
+   <properties>
+    <property name="Class" value="Evo_charmander"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="36" name="evo_squirtle" tilewidth="34" tileheight="36" tilecount="12" columns="4">
+  <image source="../images/evo_squirtle.png" width="156" height="130"/>
+  <tile id="1">
+   <properties>
+    <property name="Class" value="Evo_squirtle"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="48" name="evo_machop" tilewidth="38" tileheight="42" tilecount="12" columns="4">
+  <image source="../images/evo_machop.png" width="186" height="160"/>
+  <tile id="1">
+   <properties>
+    <property name="Class" value="Evo_machop"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="60" name="evo_gastly" tilewidth="50" tileheight="64" tilecount="6" columns="3">
+  <image source="../images/evo_gastly.png" width="156" height="156"/>
+  <tile id="1">
+   <properties>
+    <property name="Class" value="Evo_gastly"/>
+   </properties>
+  </tile>
+ </tileset>
+ <imagelayer name="Background" offsetx="0" offsety="-1">
+  <image source="../images/end.png" width="760" height="640"/>
+ </imagelayer>
+ <objectgroup name="Objects">
+  <object id="2" name="Arceus" gid="2" x="311" y="499" width="128" height="136"/>
+  <object id="3" name="Pikachu" gid="5" x="169" y="356" width="40" height="52"/>
+  <object id="4" name="Bulbasaur" gid="13" x="71" y="490" width="38" height="44"/>
+  <object id="5" name="Charmander" gid="25" x="201" y="570" width="38" height="44"/>
+  <object id="6" name="Squirtle" gid="37" x="532" y="343" width="34" height="36"/>
+  <object id="7" name="Machop" gid="49" x="491" y="564" width="38" height="42"/>
+  <object id="8" name="Gastly" gid="61" x="628" y="480" width="50" height="64"/>
+ </objectgroup>
+</map>

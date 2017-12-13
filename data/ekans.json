@@ -1,0 +1,5 @@
+{
+	"ekans":{"sx":0,"sy":0,"tileW":62,"tileH":48,"frames":3},
+	"hurt_ekans":{"sx":0,"sy":48,"tileW":64,"tileH":52,"frames":1},
+	"attack_ekans":{"sx":0,"sy":100,"tileW":98,"tileH":55,"frames":4}
+}

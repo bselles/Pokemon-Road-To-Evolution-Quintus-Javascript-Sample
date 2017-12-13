@@ -1,0 +1,4 @@
+{
+	"rattata":{"sx":0,"sy":0,"tileW":56,"tileH":36,"frames":3},
+	"hurt_rattata":{"sx":0,"sy":36,"tileW":40,"tileH":40,"frames":1}
+}

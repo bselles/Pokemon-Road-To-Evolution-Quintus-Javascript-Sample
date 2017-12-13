@@ -1,0 +1,5 @@
+{
+	"evo1_machop":{"sx":0,"sy":0,"tileW":38,"tileH":42,"frames":3},
+	"evo2_machop":{"sx":0,"sy":42,"tileW":50,"tileH":54,"frames":3},
+	"evo3_machop":{"sx":0,"sy":96,"tileW":62,"tileH":64,"frames":3}
+}

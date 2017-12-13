@@ -1,0 +1,5 @@
+{
+	"fearow_side":{"sx":0,"sy":0,"tileW":72,"tileH":60,"frames":4},
+	"fearow":{"sx":0,"sy":60,"tileW":72,"tileH":62,"frames":4}
+	
+}

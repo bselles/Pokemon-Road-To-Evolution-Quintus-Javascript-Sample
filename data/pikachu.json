@@ -1,0 +1,5 @@
+{
+	"pikachu":{"sx":0,"sy":0,"tileW":44,"tileH":48,"frames":3},
+	"hurt_pikachu":{"sx":0,"sy":48,"tileW":48,"tileH":48,"frames":1},
+	"attack_pikachu":{"sx":0,"sy":96,"tileW":56,"tileH":50,"frames":2}
+}

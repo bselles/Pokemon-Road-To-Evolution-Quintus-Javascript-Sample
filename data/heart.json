@@ -1,0 +1,6 @@
+{
+	"ok":{"sx":0,"sy":0,"tileW":15,"tileH":13,"frames":1},
+	"hurt":{"sx":15,"sy":0,"tileW":15,"tileH":13,"frames":1},
+	"lost":{"sx":30,"sy":0,"tileW":15,"tileH":13,"frames":1},
+	"NA":{"sx":45,"sy":0,"tileW":15,"tileH":13,"frames":1}
+}

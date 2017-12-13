@@ -1,0 +1,4 @@
+{
+	"magneton":{"sx":0,"sy":0,"tileW":76,"tileH":116,"frames":3},
+	"hurt_magneton":{"sx":0,"sy":116,"tileW":112,"tileH":124,"frames":1}
+}

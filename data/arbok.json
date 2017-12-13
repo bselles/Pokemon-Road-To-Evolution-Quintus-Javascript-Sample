@@ -1,0 +1,5 @@
+{
+	"arbok":{"sx":0,"sy":0,"tileW":104,"tileH":124,"frames":3},
+	"hurt_arbok":{"sx":0,"sy":124,"tileW":96,"tileH":112,"frames":1},
+	"attack_arbok":{"sx":0,"sy":236,"tileW":156,"tileH":136,"frames":4}
+}

@@ -1,0 +1,5 @@
+{
+	"squirtle":{"sx":0,"sy":0,"tileW":46,"tileH":38,"frames":3},
+	"hurt_squirtle":{"sx":0,"sy":38,"tileW":44,"tileH":38,"frames":1},
+	"attack_squirtle":{"sx":0,"sy":76,"tileW":50,"tileH":36,"frames":3}
+}

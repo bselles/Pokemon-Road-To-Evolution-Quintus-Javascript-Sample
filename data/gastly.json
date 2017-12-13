@@ -1,0 +1,4 @@
+{
+	"gastly":{"sx":0,"sy":0,"tileW":58,"tileH":54,"frames":3},
+	"hurt_gastly":{"sx":0,"sy":54,"tileW":60,"tileH":60,"frames":1}
+}

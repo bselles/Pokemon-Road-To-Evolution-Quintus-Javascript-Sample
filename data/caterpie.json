@@ -1,0 +1,4 @@
+{
+	"caterpie":{"sx":0,"sy":0,"tileW":48,"tileH":34,"frames":3},
+	"hurt_caterpie":{"sx":0,"sy":34,"tileW":34,"tileH":40,"frames":1}
+}

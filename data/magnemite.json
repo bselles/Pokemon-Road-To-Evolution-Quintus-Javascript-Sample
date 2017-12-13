@@ -1,0 +1,4 @@
+{
+	"magnemite":{"sx":0,"sy":0,"tileW":42,"tileH":32,"frames":3},
+	"hurt_magnemite":{"sx":0,"sy":32,"tileW":54,"tileH":48,"frames":1}
+}

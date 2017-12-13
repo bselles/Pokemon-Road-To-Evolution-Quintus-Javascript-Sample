@@ -1,0 +1,5 @@
+{
+	"evo1_squirtle":{"sx":0,"sy":0,"tileW":34,"tileH":36,"frames":3},
+	"evo2_squirtle":{"sx":0,"sy":36,"tileW":48,"tileH":42,"frames":3},
+	"evo3_squirtle":{"sx":0,"sy":78,"tileW":52,"tileH":52,"frames":3}
+}

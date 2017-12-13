@@ -1,0 +1,4 @@
+{
+	"muk":{"sx":0,"sy":0,"tileW":46,"tileH":46,"frames":3},
+	"hurt_muk":{"sx":0,"sy":46,"tileW":56,"tileH":50,"frames":1}
+}

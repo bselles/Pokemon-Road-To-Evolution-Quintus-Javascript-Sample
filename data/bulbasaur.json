@@ -1,0 +1,5 @@
+{
+	"bulbasaur":{"sx":0,"sy":0,"tileW":46,"tileH":42,"frames":3},
+	"hurt_bulbasaur":{"sx":0,"sy":42,"tileW":50,"tileH":44,"frames":1},
+	"attack_bulbasaur":{"sx":0,"sy":86,"tileW":38,"tileH":42,"frames":2}
+}

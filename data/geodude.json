@@ -1,0 +1,4 @@
+{
+	"geodude":{"sx":0,"sy":0,"tileW":42,"tileH":44,"frames":3},
+	"hurt_geodude":{"sx":0,"sy":44,"tileW":38,"tileH":34,"frames":1}
+}

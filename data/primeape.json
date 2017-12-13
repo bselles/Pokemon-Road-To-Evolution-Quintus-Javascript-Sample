@@ -1,0 +1,4 @@
+{
+	"primeape":{"sx":0,"sy":0,"tileW":64,"tileH":100,"frames":3},
+	"hurt_primeape":{"sx":0,"sy":100,"tileW":92,"tileH":92,"frames":1}
+}

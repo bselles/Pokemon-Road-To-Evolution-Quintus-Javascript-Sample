@@ -1,0 +1,5 @@
+{
+	"evo1_bulbasaur":{"sx":0,"sy":0,"tileW":38,"tileH":44,"frames":3},
+	"evo2_bulbasaur":{"sx":0,"sy":44,"tileW":40,"tileH":44,"frames":3},
+	"evo3_bulbasaur":{"sx":0,"sy":88,"tileW":52,"tileH":52,"frames":3}
+}

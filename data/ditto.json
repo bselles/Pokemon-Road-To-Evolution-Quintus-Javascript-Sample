@@ -1,0 +1,4 @@
+{
+	"ditto":{"sx":0,"sy":0,"tileW":38,"tileH":44,"frames":3},
+	"hurt_ditto":{"sx":0,"sy":44,"tileW":32,"tileH":56,"frames":1}
+}

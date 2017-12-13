@@ -1,0 +1,5 @@
+{
+	"evo1_charmander":{"sx":0,"sy":0,"tileW":38,"tileH":44,"frames":3},
+	"evo2_charmander":{"sx":0,"sy":44,"tileW":36,"tileH":48,"frames":3},
+	"evo3_charmander":{"sx":0,"sy":92,"tileW":54,"tileH":58,"frames":3}
+}

@@ -1,0 +1,5 @@
+{
+	"nidoran":{"sx":0,"sy":0,"tileW":52,"tileH":50,"frames":3},
+	"hurt_nidoran":{"sx":0,"sy":50,"tileW":48,"tileH":46,"frames":1},
+	"attack_nidoran":{"sx":0,"sy":96,"tileW":48,"tileH":42,"frames":2}
+}

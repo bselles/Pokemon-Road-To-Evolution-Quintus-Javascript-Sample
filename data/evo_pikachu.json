@@ -1,0 +1,5 @@
+{
+	"evo1_pikachu":{"sx":0,"sy":0,"tileW":40,"tileH":52,"frames":3},
+	"evo2_pikachu":{"sx":0,"sy":52,"tileW":58,"tileH":56,"frames":3},
+	"evo3_pikachu":{"sx":0,"sy":52,"tileW":58,"tileH":56,"frames":3}
+}

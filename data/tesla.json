@@ -1,0 +1,4 @@
+{
+	"tesla_off":{"sx":0,"sy":0,"tileW":32,"tileH":58,"frames":2},
+	"tesla_on":{"sx":64,"sy":0,"tileW":32,"tileH":58,"frames":2}
+}

@@ -1,0 +1,4 @@
+{
+	"arcanine":{"sx":0,"sy":0,"tileW":136,"tileH":116,"frames":4},
+	"hurt_arcanine":{"sx":0,"sy":116,"tileW":128,"tileH":124,"frames":1}
+}

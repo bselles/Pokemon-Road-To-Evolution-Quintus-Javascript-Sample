@@ -1,0 +1,6 @@
+{
+	"pidgey":{"sx":0,"sy":0,"tileW":42,"tileH":38,"frames":2},
+	"pidgey_side":{"sx":0,"sy":38,"tileW":36,"tileH":38,"frames":2},
+	"hurt_pidgey":{"sx":0,"sy":76,"tileW":34,"tileH":34,"frames":1},
+	"hurt_pidgey_side":{"sx":0,"sy":110,"tileW":38,"tileH":32,"frames":1}
+}
